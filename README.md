@@ -11,14 +11,14 @@ Development on the application has been focused only on completing the form and 
 ### The requirements are as follows for each field, and the results:
 
 * Header: Required, 9-19 characters in length, any allowed
-* MKE: Required, 2-4 alpha/special characters in length
+* MKE: Required, 2-4 alphabet/special characters in length
 * Originating Agency Identifier: Required, 9 alphanumeric characters in length
-* Name: Rewired, 3-30 characters in length, any allowed
+* Name: Required, 3-30 characters in length, any allowed
 * Sex: Required, 1 character in length, alphabet only
 * Race: Requires, 1 character in length, alphabet only
 * Height: Required, 3 characters in length, numeric only
 * Weight: Required, 3 characters in length, numeric only
-* Hair: Required, 4-10 characters in length, alpha only
+* Hair: Required, 4-10 characters in length, alphabet only
 * Offense: Required, 5-15 characters in length, any allowed
 * Date of Warrant/Violation, 8 characters in length, numeric in MMDDYYYY format
 * Drivers License: Optional, 1-20 characters in length, any characters allowed, if included requires DL State & DL Expiration Year
